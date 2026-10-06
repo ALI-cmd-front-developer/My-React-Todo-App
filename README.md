@@ -2,7 +2,7 @@
 
 A responsive task manager built with **React**, **Vite** and **Material UI**. Add tasks, edit them inline, filter by status, and confirm deletions through animated popups. Tasks are saved in the browser, so they are still there after a refresh.
 
-**Live demo:** [your-app.vercel.app](https://my-react-todo-app-eta.vercel.app/)
+**Live demo:** [App on vercel](https://my-react-todo-app-eta.vercel.app/)
 
 ![Desktop screenshot](screenshots/desktop.png)
 
