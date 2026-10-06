@@ -9,6 +9,7 @@ A responsive task manager built with **React**, **Vite** and **Material UI**. Ad
 <p>
   <img src="screenshots/mobile.jpg" alt="Mobile screenshot" width="260" />
 </p>
+
 ## Features
 
 - Add new tasks
