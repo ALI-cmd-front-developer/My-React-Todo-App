@@ -79,6 +79,7 @@ h1 {
     border: 1px solid #fff;
     transition: 0.4s;
     width: 14%;
+    text-align : center
     display: flex;
     justify-content: center;
     align-items: center;
