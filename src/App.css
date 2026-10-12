@@ -380,7 +380,7 @@ span {
 
 
 
-@media (max-width: 379px) {
+@media (max-width: 400px) {
     .container {
         width: 95%;
     }
