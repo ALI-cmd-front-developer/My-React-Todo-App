@@ -474,7 +474,7 @@ span {
 
 }
 
-@media (min-width : 378px) and (max-width : 760px) {
+@media (min-width : 388px) and (max-width : 760px) {
 .input-button button {
     width: clamp(19.6% , 1.1vw , 20%);
 }
